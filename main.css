@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+    padding: 10%;
+}
+
+body h1 {
+    color: #ffff;
+}
+
+body p {
+    color: rgb(0, 0, 4);
+}
